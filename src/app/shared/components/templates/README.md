@@ -1,0 +1,3 @@
+In Atomic Design, templates and pages are the final building blocks after organisms. They are used to create the final layout of the application and define the structure of the pages. One of the benefits of using templates is the ability to use Higher Order Components (HOC) to create reusable and maintainable templates.
+
+For example, if you want to add a common header and footer to multiple pages, you can create a HOC that wraps the pages and adds the header and footer. This way, you can reuse the HOC across multiple pages, making it easy to update the header and footer in one place, instead of having to update it on multiple pages.

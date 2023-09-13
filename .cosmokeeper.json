@@ -1,0 +1,10 @@
+{
+  "lint": {
+    "eslint": true,
+    "prettier": true,
+    "matches": "(.ts|.tsx)$"
+  },
+  "patterns": {
+    "branch": "/(feat/w+|hotfix/w+|main)/g"
+  }
+}

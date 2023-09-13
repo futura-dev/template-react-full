@@ -1,0 +1,3 @@
+The main difference between molecules and organisms in Atomic Design is the level of complexity and the purpose they serve in creating the overall user interface.
+
+Organisms are made up of one or more molecular or atomic components and are used to create even more complex UI elements. They tend to be larger in scope and provide a sense of structure to the UI. They tend to be responsible for the layout and composition of the UI, such as headers, footers, and sidebars. They are the level that starts shaping the layout of the pages. While organisms can include atoms and molecules, they are mainly composed of molecules, and their main purpose is to arrange them in a way that makes sense in the context of the layout.

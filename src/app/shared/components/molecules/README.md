@@ -1,0 +1,1 @@
+In Atomic Design, molecular components are the next level of building blocks after atomic components. They are made up of one or more atomic components and are used to create more complex UI elements.
